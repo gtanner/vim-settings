@@ -91,3 +91,6 @@
 [submodule ".vim/bundle/vim-colors-twilighted"]
 	path = .vim/bundle/vim-colors-twilighted
 	url = git@github.com:brentlintner/twilighted.vim.git
+[submodule ".vim/bundle/vim-colors-buttercream"]
+	path = .vim/bundle/vim-colors-buttercream
+	url = https://github.com/vim-scripts/buttercream.vim
