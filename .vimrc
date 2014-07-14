@@ -13,9 +13,9 @@ let g:CommandTWildIgnore=&wildignore . ",**/node_modules/*,**coverage/*,**/bower
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Color settings
-set background=dark
+set background=light
 set t_Co=256
-colors xoria256
+colors buttercream
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Allow backspacing over everything in insert mode
